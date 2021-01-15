@@ -3,7 +3,7 @@ module.exports =
   entry: './index.js',
   output:
   {
-    fiilename: 'build.js',
+    filename: 'build.js',
     output: './build'
   }
 }
