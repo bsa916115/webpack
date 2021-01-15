@@ -4,6 +4,5 @@ module.exports =
   output:
   {
     filename: 'build.js',
-    output: './build'
   }
 }
