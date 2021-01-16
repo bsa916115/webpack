@@ -3,9 +3,10 @@ module.exports =
   entry: './index.js',
   output:
   {
-    filename: 'build.js',
+    filename: 'build.js'
   },
-  mode: 'production',
+  mode: 'production'
+  /*
   module: {
     rules: [
       {
@@ -19,5 +20,5 @@ module.exports =
         }
       }
     ]
-  }
+  }*/
 }
